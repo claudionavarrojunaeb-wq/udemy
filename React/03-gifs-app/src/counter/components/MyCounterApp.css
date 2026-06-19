@@ -1,0 +1,10 @@
+.counter-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.counter-app__actions {
+  display: flex;
+  gap: 10px;
+}

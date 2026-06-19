@@ -1,0 +1,1 @@
+Este es un proyecto de aplicación de gifs en React, TypeScript y NestJS.

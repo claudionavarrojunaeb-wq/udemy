@@ -17,7 +17,7 @@ export const useCounter= ({initialValue = 10}: Props) => {
   //Props
   counter: counter,
 
-  //Methos or actions
+  //Methods or actions
   handleAdd,
   handleSubtract,
   handleReset,
